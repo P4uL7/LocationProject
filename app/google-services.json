@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "442249115510",
+    "firebase_url": "https://treeproject-1552136365974.firebaseio.com",
+    "project_id": "treeproject-1552136365974",
+    "storage_bucket": "treeproject-1552136365974.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442249115510:android:3e95d8de703e43c3",
+        "android_client_info": {
+          "package_name": "forest.locationproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442249115510-tsnvv7ufri4sf3n4pg2ogkds6d5s5g5o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "forest.locationproject",
+            "certificate_hash": "fef6ff325819a4f7ae6e1544b8ea045b8e095532"
+          }
+        },
+        {
+          "client_id": "442249115510-2git3slbil46ntj8eufa6t17id0s1vu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB9rP640YRhaXq6DI-Rth-0bNQ-OqGJRY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442249115510-2git3slbil46ntj8eufa6t17id0s1vu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
